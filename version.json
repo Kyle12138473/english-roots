@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "0.8.0",
-  "apkUrl": "https://github.com/Kyle12138473/english-roots/releases/download/v0.8.0/english-roots-v0.8.0.apk",
-  "notes": "\u8bcd\u6839\u5355\u8bcd v0.8.0 \u66f4\u65b0\u5185\u5bb9:\n\u2022 \u8bcd\u6839\u8bcd\u7f00\u6309\u300c\u4f7f\u7528\u9891\u7387\u300d\u5206 3 \u7ea7:L1 \u5165\u95e8\u6838\u5fc3 / L2 \u5e38\u89c1 / L3 \u8fdb\u9636,\u5217\u8868\u5206\u7ec4\u66f4\u6e05\u6670\n\u2022 \u8bcd\u6839\u5bb6\u65cf 20 \u2192 32 \u7ec4(\u65b0\u589e part/mov/vis/sens/cess/ven/cap/pend/log/fin/cred/flu \u7b49)\n\u2022 \u8bcd\u6839\u8f68\u9053\u5355\u8bcd 80 \u2192 128 \u4e2a,\u5747\u914d\u8bcd\u6839\u8bcd\u7f00\u62c6\u89e3 + \u6784\u8bcd\u903b\u8f91 + \u8bb0\u5fc6\u6cd5 + \u4f8b\u53e5\n\u2022 \u9ad8\u9891\u8bcd\u5e93\u4e0e\u8bcd\u6839\u8f68\u9053\u53bb\u91cd,\u907f\u514d\u540c\u8bcd\u91cd\u590d\u51fa\u73b0"
+  "versionCode": 9,
+  "versionName": "0.9.0",
+  "apkUrl": "https://github.com/Kyle12138473/english-roots/releases/download/v0.9.0/english-roots-v0.9.0.apk",
+  "notes": "\u8bcd\u6839\u5355\u8bcd v0.9.0 \u66f4\u65b0\u5185\u5bb9:\n\u2022 \u524d\u7f00/\u540e\u7f00\u8865\u5168:\u8bcd\u7f00 26 \u2192 74 \u4e2a,\u5e38\u7528\u524d\u540e\u7f00\u57fa\u672c\u8986\u76d6\u5168\n\u2022 \u65b0\u589e\u524d\u7f00:un-/non-/mis-/anti-/auto-/over-/under-/super-/post-/fore-/co-/en-/out-/up-/bi-/mono-/multi- \u7b49\n\u2022 \u65b0\u589e\u540e\u7f00:-ment/-ness/-ity/-ful/-less/-ous/-ive/-ic/-ly/-ist/-ism/-ize/-ify/-ship \u7b49\n\u2022 \u8bcd\u7f00\u540c\u6837\u6309\u9891\u7387\u5206 L1/L2/L3 \u4e09\u7ea7,\u6bcf\u4e2a\u90fd\u914d\u542b\u4e49 + \u8bb0\u5fc6\u63d0\u793a + \u4f8b\u8bcd"
 }
